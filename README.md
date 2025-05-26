@@ -17,7 +17,7 @@
 <br>
 <p align="center"><em>I look forward to entering the world of technology and enjoy everything the future has to offer me!</em></p>
 
-<div>
+<div align="center">
 <a href="https://github.com/isagodev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagodev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isagodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
