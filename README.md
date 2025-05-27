@@ -19,11 +19,15 @@
 <br>
 <p align="center"><em>✨I look forward to entering the world of technology and enjoy everything the future has to offer me!✨</em></p>
 
-<div align="center">
-<a href="https://github.com/isagodev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagodev&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=isagodev&theme=midnight-purple&hide_border=true" width="56%" height="50%"  align="center">
-</div>
+
+<p align="center">
+  <a href="https://github.com/isagodev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagodev&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
+  </a>
+  <a href="https://github.com/isagodev">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=isagodev&theme=midnight-purple&hide_border=true" width="470px"/>
+  </a>
+</p>
 
 <div align="center">
   <h1 align="center">📲 Contacts here! Talk with me !</h1>
