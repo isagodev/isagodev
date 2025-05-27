@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://github.com/isagodev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagodev&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagodev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400px"/>
   </a>
   <a href="https://github.com/isagodev">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=isagodev&theme=midnight-purple&hide_border=true" width="470px"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=isagodev&theme=dracula&hide_border=true" width="470px"/>
   </a>
 </p>
 
