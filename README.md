@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>💖Hello Devs! I am Isabella Golubiewski Silva !💖</h1>
-  <p>📖 I am a student of Programming Languages ​​for WEB Development.</p>
+  <h1>💖Hey! I am Isabella Golubiewski Silva !💖</h1>
+  <p>📖 I am currently a Software Engineering student..</p>
 </div>
 
 <h2 align="center">💻 Here are the Technologies I use the most !</h2>
